@@ -1,0 +1,118 @@
+anno,Npat,words,cluster
+2018,8,Medical,1
+2018,13,fingerprint,2
+2018,15,document mngmt,3
+2018,11,autonomous vehicle,4
+2018,17,location detection,5
+2018,24,user interface,6
+2018,5,Quantum Computing,19
+2018,5,Drone,4
+2018,12,speech recognition,7
+2017,113,location detection,5
+2017,105,speech recognition,7
+2017,147,Convolutional NN,8
+2017,190,NLP,10
+2017,71,fingerprint,2
+2017,25,Medical,1
+2017,207,autonomous vehicle,4
+2017,878,face detection,11
+2017,70,video stream,12
+2017,168,user interface,6
+2016,651,robot,13
+2016,433,Convolutional NN,8
+2016,347,location detection,5
+2016,219,video stream,12
+2016,222,vehicle battery,4
+2016,161,fingerprint,2
+2016,494,speech recognition,7
+2016,52,Quantum Computing,19
+2016,56,NLP,10
+2016,2459,user interface,6
+2016,616,autonomous vehicle,4
+2016,748,audio,5
+2015,20,Risk,20
+2015,42,Recommendation,21
+2015,58,Convolutional NN,8
+2015,257,Quantum Computing,19
+2015,884,user interface,6
+2015,682,autonomous vehicle,4
+2015,209,language recognition,10
+2015,483,location detection,5
+2015,290,robot,13
+2015,350,speech recognition,7
+2015,508,fingerprint,2
+2015,1452,video stream,12
+2014,94,Quantum+Robot,19
+2014,535,Recommendation social,21
+2014,237,NN,8
+2014,968,user interface,6
+2014,597,autonomous vehicle,4
+2014,458,face detection,11
+2014,145,video stream,12
+2014,206,document mngmt,3
+2014,537,speech recognition,7
+2014,499,location detection,5
+2013,132,ANN,8
+2013,187,Robot,13
+2013,96,Quantum Computing,19
+2013,86,NLP,10
+2013,464,autonomous vehicle,4
+2013,306,social media,15
+2013,535,speech recognition,7
+2013,415,location detection,5
+2013,496,object detection,17
+2013,477,query search,3
+2013,324,video stream,12
+2012,408,Recommendation,21
+2012,70,Quantum Computing,19
+2012,160,Cloud,22
+2012,372,autonomous vehicle,4
+2012,437,document mngmt,3
+2012,573,face detection,11
+2012,318,speech recognition,7
+2012,1107,user interface,6
+2012,182,battery,4
+2012,367,translation,10
+2011,129,ANN,8
+2011,77,Quantum Computing,19
+2011,44,Virtual  Reality,23
+2011,29,Recommendation,21
+2011,281,fingerprint,2
+2011,409,face detection,11
+2011,140,video stream,12
+2011,266,document mngmt,3
+2011,301,location detection,5
+2011,179,audio,5
+2011,278,vehicle,4
+2011,343,speech recognition,7
+2010,62,ANN,8
+2010,186,Robot,13
+2010,72,Quantum Computing,19
+2010,193,vehicle,4
+2010,218,translation,10
+2010,191,document mngmt,3
+2010,218,video audio,5
+2010,198,query search,3
+2010,274,robot,13
+2010,449,face detection,11
+2010,185,battery,4
+2010,194,speech recognition,7
+2009,109,Virtual  Reality,23
+2009,16,ANN,8
+2009,47,face detection,11
+2009,274,document mngmt,3
+2009,190,vehicle,4
+2009,364,user interface,6
+2009,140,speech recognition,7
+2009,570,robot,13
+2008,180,query search,3
+2008,87,face detection,11
+2008,270,document mngmt,3
+2008,222,speech recognition,7
+2008,418,vehicle,4
+2008,136,video stream,12
+2008,263,audio,5
+2008,169,robot ,13
+2008,65,ANN,8
+2008,70,Quantum Computing,19
+2008,31,Virtual  Reality,23
